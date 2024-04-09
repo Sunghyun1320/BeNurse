@@ -256,6 +256,6 @@
 
 - 이종윤: API 제작 / Redis 캐싱 / ERD 설계 / EMR 서버 제작 / deploy / ssl / nginx
 
-**IoT**
+**Native**
 
 - 김성현 : Mobile / NFC 태깅 / 앱 연동 / 근무표 생성 알고리즘 
